@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application</string>
+    <string name="font_size">Font size</string>
+    <string name="width">Widt</string>
+    <string name="height">Height</string>
+    <string name="number_of_lines">Number of rows</string>
+    <string name="show_text">Show text</string>
+    <string name="language">Language</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="text">Hello World! Hello World! Hello World! Hello World! Hello World!</string>
+</resources>

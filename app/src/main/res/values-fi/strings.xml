@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplikaatio</string>
+    <string name="font_size">Fonttikoko</string>
+    <string name="width">Leveys</string>
+    <string name="height">Korkeus</string>
+    <string name="number_of_lines">Rivien määrä</string>
+    <string name="show_text">Näytä teksti</string>
+    <string name="language">Kieli</string>
+    <string name="save">Tallenna</string>
+    <string name="edit">Muokkaus</string>
+    <string name="text">Hei Maailma! Hei Maailma! Hei Maailma! Hei Maailma! Hei Maailma! Hei Maailma! </string>
+</resources>
